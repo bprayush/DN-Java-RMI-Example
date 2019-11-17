@@ -1,11 +1,11 @@
 # DB Java RMI Example
 
-### USAGE
-# Server
+## USAGE
+### Server
 ```
 java Server
 ```
-# Client
+### Client
 ```
 java Client <string>
 ```
